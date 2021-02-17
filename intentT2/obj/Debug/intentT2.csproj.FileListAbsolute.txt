@@ -1,0 +1,7 @@
+C:\Users\Salma Mármol\source\repos\intentT2\bin\Debug\intentT2.exe.config
+C:\Users\Salma Mármol\source\repos\intentT2\bin\Debug\intentT2.exe
+C:\Users\Salma Mármol\source\repos\intentT2\bin\Debug\intentT2.pdb
+C:\Users\Salma Mármol\source\repos\intentT2\obj\Debug\intentT2.csprojAssemblyReference.cache
+C:\Users\Salma Mármol\source\repos\intentT2\obj\Debug\intentT2.csproj.CoreCompileInputs.cache
+C:\Users\Salma Mármol\source\repos\intentT2\obj\Debug\intentT2.exe
+C:\Users\Salma Mármol\source\repos\intentT2\obj\Debug\intentT2.pdb
